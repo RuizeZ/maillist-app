@@ -10,7 +10,7 @@ function generateAddress() {
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: ,
+  password: "",
   database: 'join_us'
 });
 
